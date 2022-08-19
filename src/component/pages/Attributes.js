@@ -3,7 +3,7 @@ import React from 'react'
 function Attributes() {
     return (
         <div>
-              ajks as das djkas k  this is Attribute page
+               al dal asd lal k  this is Attribute page kl dka  asd as  new chwnage here  
         </div>
     )
 }
