@@ -3,7 +3,7 @@ import React from 'react'
 function Attributes() {
     return (
         <div>
-                this is Attribute page
+               al dal asd lal k  this is Attribute page
         </div>
     )
 }
