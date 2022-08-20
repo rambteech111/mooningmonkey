@@ -3,7 +3,7 @@ import React from 'react'
 function Calculator() {
     return (
         <div>
-                this is Calculator
+                this is Calculator power tool hai
         </div>
     )
 }
